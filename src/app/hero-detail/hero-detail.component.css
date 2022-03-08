@@ -9,6 +9,11 @@ input {
   padding: .5rem;
 }
 
+nav {
+  display: flex;
+  gap: 15px;
+}
+
 button {
   margin-top: 20px;
   background-color: #eee;
