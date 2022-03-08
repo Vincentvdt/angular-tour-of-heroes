@@ -3,6 +3,12 @@ h1 {
   margin-bottom: 0;
 }
 
+nav {
+  display: flex;
+  gap: 15px;
+  justify-content: flex-start;
+}
+
 nav a {
   padding: 1rem;
   text-decoration: none;
